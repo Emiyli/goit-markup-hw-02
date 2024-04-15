@@ -25,6 +25,7 @@ body{
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase; 
     color: #2e2f42;
     background: #fff;
   }
@@ -89,19 +90,20 @@ body{
 
 /*============EFFECTIVE SOLUTIONS STYLES==========*/
 .advantages-list-title {
-    font-size: 56px;
-    line-height: 1.07;
+    
+    ont-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
-    color: #fff;
+    color: #2e2f42;
  
 }
 .advantages-list-text {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    color: #434455;
 }
-
 /*============Our Team STYLES============*/
 .experts {
     background-color: #F4F4FD;
@@ -126,6 +128,7 @@ body{
     line-height: 150%;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #434455;
 }
 
 /*============Portfolio STYLES============*/
@@ -147,6 +150,7 @@ body{
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /* ============FOOTER STYLES============*/
@@ -159,12 +163,16 @@ body{
 }
 .footer-page-logo {
     font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    color: #f4f4fd;
+    color: #4d5ae5; 
 }
 .page-footer {
     background: #2e2f42;
+}
+.footer-text-color {
+    color: #f4f4fd ;
 }
