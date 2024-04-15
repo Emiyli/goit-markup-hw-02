@@ -80,7 +80,6 @@ body{
 }
 .buy-now-btn:hover,
 .buy-now-btn:focus {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #404bbf;
 }
 
@@ -130,6 +129,7 @@ body{
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    background-color: #FFFFFF;
 }
 
 /*============Portfolio STYLES============*/
