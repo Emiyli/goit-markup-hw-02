@@ -14,17 +14,17 @@ button {
 
 body{
     font-family: "Roboto", sans-serif;
+    background-color: #fff;
     color: #2e2f42;
 }
+
 /* ============ HEADER STYLES ============ */
 .page-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px; 
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
     color: #2e2f42;
     background: #fff;
   }
@@ -42,9 +42,10 @@ body{
 .menu-link:focus {
   color: #404bbf;   
 }
-
-.contacts-link {
+.contacts {
     font-style: normal;
+}
+.contacts-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -57,16 +58,15 @@ body{
     color: #404bbf;
     }
 
-    /* ============ HERO STYLES ============ */
+/* ============ HERO STYLES ============ */
 .hero {
     width: 1440px;
     height: 600px;
     background: #2e2f42;
 }    
 .main-title {
-    font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -90,20 +90,21 @@ body{
 /*============EFFECTIVE SOLUTIONS STYLES==========*/
 .advantages-list-title {
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
  
 }
 .advantages-list-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
 }
+
+/*============Our Team STYLES============*/
 .experts {
-    background: #F4F4FD;
+    background-color: #F4F4FD;
 }
 .experts-section-title {
     font-weight: 700;
@@ -111,8 +112,7 @@ body{
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;
-}
+ }
 .experts-list-title {
     font-weight: 500;
     font-size: 20px;
@@ -127,6 +127,8 @@ body{
     letter-spacing: 0.02em;
     text-align: center;
 }
+
+/*============Portfolio STYLES============*/
 .portfolio-section-title {
     font-weight: 700;
     font-size: 36px;
@@ -156,13 +158,12 @@ body{
     color: #F4F4FD;
 }
 .footer-page-logo {
-font-family: "Raleway", sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 1.16667;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #f4f4fd;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #f4f4fd;
 }
 .page-footer {
     background: #2e2f42;
