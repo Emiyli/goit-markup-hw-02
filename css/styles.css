@@ -26,12 +26,7 @@ body{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase; 
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #4d5ae5;
-}
+    }
 .text-color {
     color: #2e2f42;
 }
@@ -106,9 +101,7 @@ body{
     color: #434455;
 }
 /*============Our Team STYLES============*/
-.experts {
-    background-color: #F4F4FD;
-}
+
 .experts-section-title {
     font-weight: 700;
     font-size: 36px;
@@ -117,6 +110,7 @@ body{
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+    background-color: #F4F4FD;
  }
 .experts-list-title {
     font-weight: 500;
