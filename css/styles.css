@@ -100,9 +100,8 @@ body{
     color: #434455;
 }
 /*============Our Team STYLES============*/
-.experts {
-    background-color: #F4F4FD;  
-}
+
+
 .experts-list-items {
     background-color: #F4F4FD;   
 }
@@ -114,7 +113,6 @@ body{
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
-    background-color: #F4F4FD;  
  }
 .experts-list-title {
     font-weight: 500;
@@ -123,7 +121,7 @@ body{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    background-color: #F4F4FD;  
+    
    }
 .experts-list-text {
     font-weight: 400;
@@ -132,7 +130,7 @@ body{
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    background-color: #F4F4FD;  
+
     }
 
 /*============Portfolio STYLES============*/
